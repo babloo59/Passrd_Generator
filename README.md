@@ -8,8 +8,8 @@
 
 <h1>Functions:-</h1>
 <ul>
-  <li>Here, We can adjust the range of character of a password to generate.</li>
-  <li>We also can select weather it includes uppercase , lowercase letters , numbers or symbols.</li>
-  <li>We also can copy generated password.</li>
-  <li>It also shows the strength of the password.</li>
+  <li>Here, we can adjust the length range of the password before generating it.</li>
+  <li>We can also select whether it includes uppercase and lowercase letters, numbers, or symbols.</li>
+  <li>We can also copy the generated password.</li>
+  <li>It also displays the strength of the generated password.</li>
 </ul>
