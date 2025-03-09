@@ -11,4 +11,5 @@
   <li>Here, We can adjust the range of character of a password to generate.</li>
   <li>We also can select weather it includes uppercase , lowercase letters , numbers or symbols.</li>
   <li>We also can copy generated password.</li>
+  <li>It also shows the strength of the password.</li>
 </ul>
